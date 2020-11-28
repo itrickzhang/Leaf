@@ -38,16 +38,16 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-boot-dependencies.version>2.3.6.RELEASE</spring-boot-dependencies.version>
         <maven.compiler.version>3.5.1</maven.compiler.version>
-        <mybatis.version>3.3.0</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <perf4j.version>0.9.16</perf4j.version>
         <curator.version>2.6.0</curator.version>
         <slf4j.version>1.7.2</slf4j.version>
-        <druid.version>1.0.18</druid.version>
+        <druid.version>1.2.3</druid.version>
         <jackson-databind.version>2.9.6</jackson-databind.version>
         <mysql-connector-java.version>5.1.38</mysql-connector-java.version>
         <commons-io.version>2.4</commons-io.version>
         <log4j.version>2.7</log4j.version>
-        <mybatis-spring.version>1.2.5</mybatis-spring.version>
+        <mybatis-spring.version>2.0.6</mybatis-spring.version>
     </properties>
     <dependencyManagement>
         <dependencies>
