@@ -1,6 +1,7 @@
 package com.sankuai.inf.leaf.server.model;
 
 public class SegmentBufferView {
+
     private String key;
     private long value0;
     private int step0;
